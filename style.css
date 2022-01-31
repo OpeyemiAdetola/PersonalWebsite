@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 10px;
+}
+body{
+    background-color: #6f2da8;;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color:#90ee90  
+}
+.picture-img{
+    border: 2px;
+    width: 100%;
+    max-width: 500%;
+    min-width: 100%;
+}
+.aboutme {
+    text-align: center;
+    color: #0000FF;
+    font-style: italic;
+    font-family: arial;
+    font-weight: bold;
+    border-style: solid;
+    background-color:lightgrey;  
+}
+.paragraph{
+    text-align: justify;
+    color: #90ee90;
+    font-size: 25px;
+    font-weight: bold;
+    font-weight: 900;
+    font-family: san serif;
+    font-style: italic;
+    border-style: dashed;
+}
+
